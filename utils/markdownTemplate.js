@@ -19,8 +19,28 @@ function markdownTemplate(data) {
   ${data.projectDescription}
 
   ## Table of Contents
+    * [Installation](#installationInstruction)
+    * [Usage Details](#usageDetails)
+    * [Contribution](#contributionInformation)
+    * [Test Information](#testInformation)
+
+  ## Installation
+  
+  ${data.installationInstructions}
+
+  ## Usage Details
+
+  ${data.usageDetails}
+
+  ## Contribution
+
+  ${data.contributionInformation}
+
+  ## Test Information
+
+  ${data.testInformation}
 
 `;
 }
 
-module.exports = generateMarkdown;
+module.exports = markdownTemplate;
