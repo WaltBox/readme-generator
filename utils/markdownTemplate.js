@@ -25,12 +25,16 @@ function markdownTemplate(data) {
 
   ${data.projectDescription}
 
-  ## Table of Contents 
-    * [Description](#projectDescription)
-    * [Installation](#installationInstructions) 
-    * [Usage](#usageDetails)
-    * [Contribution](#contributionInformation)
-    * [Test](#testInformation)
+  # Table of Contents 
+[Description](#description)
+
+[Installation](#installation) 
+
+[Usage Details](#usage-details)
+
+[Contribution](#contribution)
+
+[Test Information](#test-information)
 
   ## Installation
   
