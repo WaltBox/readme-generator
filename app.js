@@ -36,12 +36,22 @@ const questions = [
         name: 'testInformation',
         message: 'How can a user run tests with your project?'
     },
-    /*{
-        type: 'list',
+    {
+        type: 'checkbox',
         name: 'licenseName',
         message: 'What license did you use for your project?',
-        choices: ''
-    }*/
+        choices: ['MIT', 'GPLv3', 'GPL', 'None']
+    },
+    {
+        type: 'input',
+        name: 'gitUsername',
+        message: 'What is your Github username?'
+    },
+    {
+        type: 'input',
+        name: 'emailAddress',
+        message: 'Please enter your email address.'
+    }
 ];
 
 // TODO: Create a function to write README file
