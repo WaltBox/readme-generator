@@ -2,7 +2,7 @@
 
   ## Description
 
-  Applications that prompts users with a series of basic readme questions and then assembles a personalized readme 
+  Application that prompts user with basic questions then assembles a readme for user.
 
   # Table of Contents 
 [Description](#description)
@@ -17,11 +17,11 @@
 
   ## Installation
   
-  clone the github repository then run node app
+  Clone this repository then run node app
 
   ## Usage Details
 
-  Create personalized readmes for the user
+  Creates a readme for the user
 
   ## Contribution
 
