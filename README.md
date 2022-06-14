@@ -2,7 +2,7 @@
 
   ## Description
 
-  App that allows users to answer basic README questions and then assembles a readme for the user
+  Applications that prompts users with a series of basic readme questions and then assembles a personalized readme 
 
   # Table of Contents 
 [Description](#description)
@@ -10,18 +10,18 @@
 [Installation](#installation) 
 
 [Usage Details](#usage-details)
-w
+
 [Contribution](#contribution)
 
 [Test Information](#test-information)
 
   ## Installation
   
-  clone this repository and run node app
+  clone the github repository then run node app
 
   ## Usage Details
 
-  Creates a readme for users
+  Create personalized readmes for the user
 
   ## Contribution
 
