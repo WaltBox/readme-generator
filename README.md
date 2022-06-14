@@ -2,7 +2,7 @@
 
   ## Description
 
-  Prompt user with questions and then assembles a README.md
+  App that allows users to answer basic README questions and then assembles a readme for the user
 
   # Table of Contents 
 [Description](#description)
@@ -10,18 +10,18 @@
 [Installation](#installation) 
 
 [Usage Details](#usage-details)
-
+w
 [Contribution](#contribution)
 
 [Test Information](#test-information)
 
   ## Installation
   
-  Clone the repository and run node app
+  clone this repository and run node app
 
   ## Usage Details
 
-  Creates a simple way for users to create readmes
+  Creates a readme for users
 
   ## Contribution
 
@@ -37,5 +37,5 @@
 
   ## Questions?
 
-  ### Github: <a href= "https://github.com/Waltbox">Waltbox</a>
+  ### Github: <a href= "https://github.com/WaltBox">WaltBox</a>
   ### Email: <a href= "mailto:waltboxwell@gmail.com">waltboxwell@gmail.com</a>
